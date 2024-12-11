@@ -10,3 +10,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=shaycoh&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaycoh&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaycoh&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaycoh&theme=solarized)
